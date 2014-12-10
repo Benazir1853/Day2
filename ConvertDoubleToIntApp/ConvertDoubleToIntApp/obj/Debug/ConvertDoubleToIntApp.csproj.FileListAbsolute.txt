@@ -1,0 +1,5 @@
+F:\Benazir\7_12_2014\ConvertDoubleToIntApp\ConvertDoubleToIntApp\bin\Debug\ConvertDoubleToIntApp.exe.config
+F:\Benazir\7_12_2014\ConvertDoubleToIntApp\ConvertDoubleToIntApp\bin\Debug\ConvertDoubleToIntApp.exe
+F:\Benazir\7_12_2014\ConvertDoubleToIntApp\ConvertDoubleToIntApp\bin\Debug\ConvertDoubleToIntApp.pdb
+F:\Benazir\7_12_2014\ConvertDoubleToIntApp\ConvertDoubleToIntApp\obj\Debug\ConvertDoubleToIntApp.exe
+F:\Benazir\7_12_2014\ConvertDoubleToIntApp\ConvertDoubleToIntApp\obj\Debug\ConvertDoubleToIntApp.pdb

@@ -1,0 +1,6 @@
+F:\Benazir\7_12_2014\NestedSwitchApp\NestedSwitchApp\bin\Debug\NestedSwitchApp.exe.config
+F:\Benazir\7_12_2014\NestedSwitchApp\NestedSwitchApp\bin\Debug\NestedSwitchApp.exe
+F:\Benazir\7_12_2014\NestedSwitchApp\NestedSwitchApp\bin\Debug\NestedSwitchApp.pdb
+F:\Benazir\7_12_2014\NestedSwitchApp\NestedSwitchApp\obj\Debug\NestedSwitchApp.exe
+F:\Benazir\7_12_2014\NestedSwitchApp\NestedSwitchApp\obj\Debug\NestedSwitchApp.pdb
+F:\Benazir\7_12_2014\NestedSwitchApp\NestedSwitchApp\obj\Debug\NestedSwitchApp.csprojResolveAssemblyReference.cache

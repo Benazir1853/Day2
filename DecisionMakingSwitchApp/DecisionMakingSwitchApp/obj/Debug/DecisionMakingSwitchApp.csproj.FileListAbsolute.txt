@@ -1,0 +1,5 @@
+F:\Benazir\7_12_2014\DecisionMakingSwitchApp\DecisionMakingSwitchApp\bin\Debug\DecisionMakingSwitchApp.exe.config
+F:\Benazir\7_12_2014\DecisionMakingSwitchApp\DecisionMakingSwitchApp\bin\Debug\DecisionMakingSwitchApp.exe
+F:\Benazir\7_12_2014\DecisionMakingSwitchApp\DecisionMakingSwitchApp\bin\Debug\DecisionMakingSwitchApp.pdb
+F:\Benazir\7_12_2014\DecisionMakingSwitchApp\DecisionMakingSwitchApp\obj\Debug\DecisionMakingSwitchApp.exe
+F:\Benazir\7_12_2014\DecisionMakingSwitchApp\DecisionMakingSwitchApp\obj\Debug\DecisionMakingSwitchApp.pdb
